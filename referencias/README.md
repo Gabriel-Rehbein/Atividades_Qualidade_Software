@@ -16,55 +16,9 @@ Gabriel Menezes Rehbein - Matrícula: **842000137**
 
 ## 📌 Sobre o Repositório (Objetivo)
 
-Este diretório tem como finalidade reunir **materiais de apoio e referências bibliográficas** utilizados ao longo da disciplina de **Qualidade de Software**.
-
-O conteúdo aqui presente serve como base teórica para o desenvolvimento das atividades práticas, auxiliando na compreensão dos conceitos, metodologias e boas práticas da área.
-
----
-
-## 📁 Estrutura de Pastas
-
-    referencias/
-    │
-    ├── artigos/
-    ├── livros/
-    ├── normas/
-    ├── documentacoes/
-    └── links-uteis/
+AS REFERÊNCIAS NÃO SERÃO GUARDADAS AQUI... CADA ATIVIDADE TERÁ UM ARQUIVI "REFERENCIAS.md" E TODA VEZ QUE FOR FAZER UMA ATIVIDADE VOU PESQUISAR E TRAZER MAIS DE UMA REFERÊNCIA NESTE ARQUIVO SOBRE O TEMA ABORDADO
 
 
----
+ESSES ARQUIVOS CONTÉM:
 
-## 🗂️ Descrição das Pastas
-
-- 📄 **artigos/** → Artigos científicos e conteúdos técnicos  
-- 📚 **livros/** → Livros e materiais de leitura complementar  
-- 📏 **normas/** → Padrões e normas (ISO, IEEE, etc.)  
-- 🌐 **documentacoes/** → Documentações oficiais e guias técnicos  
-- 🔗 **links-uteis/** → Sites, plataformas e conteúdos relevantes  
-
----
-
-## 📖 Conteúdos Abordados
-
-- Qualidade de Software  
-- Testes de Software  
-- Garantia de Qualidade (QA)  
-- Métricas e Indicadores  
-- Modelos de Qualidade (ISO/IEC)  
-- Boas práticas de desenvolvimento  
-
----
-
-## 🎯 Objetivo Acadêmico
-
-- Consolidar o aprendizado teórico  
-- Servir como base para estudos e revisões  
-- Apoiar o desenvolvimento das atividades práticas  
-- Organizar referências de forma estruturada  
-
----
-
-## 📌 Observação
-
-Os materiais aqui organizados são utilizados exclusivamente para fins acadêmicos e de estudo.
+ARTIGOS ACADÊMICOS, LIVROS, VIDEOS, NORMAS TECNICAS, MATERIAS DE APOIO DENTRE OUTRAS INFROMAÇÕES QUE ESTAREI PESQUISANDO E ESTUDANDO SOBRE PARA ME APROFUNDAR.
