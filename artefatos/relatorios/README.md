@@ -1,4 +1,4 @@
-# 🚧 Em Desenvolvimento (se houver implementação)
+# 🚧 Em Desenvolvimento
 
 <p align="center">
   <img src="https://img.shields.io/badge/SenacRS-ADS-blue?style=for-the-badge">
